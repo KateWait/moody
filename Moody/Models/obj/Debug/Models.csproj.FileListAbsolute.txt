@@ -1,0 +1,5 @@
+C:\Users\KateWait\Desktop\Moody\Moody\Models\bin\Debug\Models.dll
+C:\Users\KateWait\Desktop\Moody\Moody\Models\bin\Debug\Models.pdb
+C:\Users\KateWait\Desktop\Moody\Moody\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\KateWait\Desktop\Moody\Moody\Models\obj\Debug\Models.dll
+C:\Users\KateWait\Desktop\Moody\Moody\Models\obj\Debug\Models.pdb
